@@ -1,53 +1,71 @@
-# Hi, I'm Imran ahmed! 👋
+<div align="center">
+  <img height="200" src="https://i.ibb.co.com/whYL0Hq/banner.png"  />
+</div>
 
-## Frontend Web Developer
+###
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-333?style=for-the-badge&logo=next.js)
-![HTML5](https://img.shields.io/badge/-HTML5-333?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333?style=for-the-badge&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333?style=for-the-badge&logo=tailwind-css)
-![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/-VS%20Code-333?style=for-the-badge&logo=visual-studio-code)
+<h2 align="left">Imran Ahmed.</h2>
 
-Welcome to my GitHub profile! I'm a passionate frontend developer with expertise in JavaScript, React.js, Next.js, HTML, CSS, Tailwind CSS, Git, and GitHub. I love building user-friendly and performant web applications.
+###
 
-## 🚀 Skills
+<h1 align="left">Frontend Developer.</h1>
 
-- **Languages & Frameworks:** JavaScript (ES6+), React.js, Next.js, HTML, CSS
-- **CSS Frameworks & Libraries:** Tailwind CSS, Bootstrap
-- **Version Control:** Git, GitHub
-- **Tools & IDEs:** Visual Studio Code
-- **Other Technologies:** REST APIs, Node.js (basic)
+###
 
-## 📂 Projects
+<h3 align="left">About me</h3>
 
-### [Project 1: Your Project Name](https://github.com/your_username/project1)
-A brief description of the project, what technologies were used, and what features it includes.
-- **Tech Stack:** React.js, Tailwind CSS, Node.js
-- **Features:** Authentication, CRUD operations, responsive design
+###
 
-### [Project 2: Your Project Name](https://github.com/your_username/project2)
-A brief description of the project, what technologies were used, and what features it includes.
-- **Tech Stack:** Next.js, CSS Modules, GraphQL
-- **Features:** Server-side rendering, static site generation, API integration
+<p align="left">✨ Creating bugs since 2023. Embracing the bug-fixing process to craft better solutions. <br>📚 I'm currently learning MERN stack development—React, Node.js, Express, and MongoDB—building dynamic web solutions. <br>🎯 Goals: ...Master the MERN stack, build scalable applications, and deliver seamless user experiences.<br>🎲 Fun fact: ...I believe in the power of 'console.log' for debugging... and for life.</p>
 
-## 📫 Contact Me
+###
 
-- **Email:** [imrantahir9918@gamil.com]
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your_username/)
-- **Twitter:** [Your Twitter Profile](https://twitter.com/your_username)
+<h3 align="left">I code with</h3>
 
-## 📜 License
+###
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+</div>
 
-## ⭐ Acknowledgements
+###
 
-- Special thanks to [Person or Resource](link) for [reason].
+<h3 align="left">Social Media</h3>
 
----
+###
 
-Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you want to collaborate or have any questions. 🙌
+<div align="left">
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.facebook.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Imranahmed935 /Imranahmed935 /output/snake.svg" alt="Snake animation" />
+
+###
