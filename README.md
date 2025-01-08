@@ -65,3 +65,7 @@
 </div>
 
 ###
+
+##
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imranAhmed935)](https://github.com/imranAhmed935/github-readme-stats)
+##
