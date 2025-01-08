@@ -66,6 +66,8 @@
 
 ###
 
-##
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imranAhmed935&show_icons=true)](https://github.com/imranAhmed935&show_icons=true/github-readme-stats)
-##
+
+<img alt="my-stats" align="left" width="47%" src ="https://github-readme-stats.vercel.app/api?username=imranAhmed935"/>
+<img alt="my-language" align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranAhmed935&langs_count=8"/>
+
+
