@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img height="200" src="https://i.ibb.co.com/whYL0Hq/banner.png"  />
 </div>
 
@@ -63,9 +63,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Imranahmed935 /Imranahmed935 /output/snake.svg" alt="Snake animation" />
 
 ###
